@@ -1,6 +1,8 @@
 # ColorMindustry
 ## Description
 **Module Python** for working with `colors` in __Mindustry__. *(Using standard Python libraries)*
+## Download
+- [Click to download](https://romanin-rf.github.io/ColorMindustry/)
 ## More detailed
 ```python
 import ColorMindustry

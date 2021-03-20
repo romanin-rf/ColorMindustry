@@ -1,6 +1,6 @@
 # ColorMindustry
 ## Description
-**Module Python** for working with __colors__ in `Mindustry`.
+**Module Python** for working with __colors__ in `Mindustry`. *(Using standard Python libraries)*
 ## More detailed
 ```python
 import ColorMindustry
